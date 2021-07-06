@@ -484,9 +484,8 @@ void intro()
     gotoxy(25,5);
     cprintf("LIBRARY MANAGEMENT");
     gotoxy(25,12);
-    cprintf("\n\nMADE BY : pooja.v and ponshriharini");
+    cprintf("\n\nMADE BY : S.SANJANA");
     gotoxy(25,20);
-    cprintf("\n\nSCHOOL : chettinad vidyashram");
     getch();
 }
 
